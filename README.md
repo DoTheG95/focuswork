@@ -1,2 +1,2 @@
-# Focus-Work
-FocusWork App
+# focuswork
+focuswork App
